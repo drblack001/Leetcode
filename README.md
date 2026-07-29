@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/drblack001/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/drblack001/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/drblack001/Leetcode/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/drblack001/Leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -45,4 +47,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

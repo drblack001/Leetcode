@@ -1,0 +1,14 @@
+// Last updated: 7/29/2026, 2:26:54 PM
+class Solution {
+public:
+    string reverseWords(string s) {
+      int start=0;
+      for(int i=0;i<=s.size();i++){
+        if(s[i]==' ' || i==s.size()){
+            reverse(s.begin()+start,s.begin()+i);
+            start=i+1;
+        }
+      }  
+      return s;
+    }
+};

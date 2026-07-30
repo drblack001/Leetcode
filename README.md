@@ -13,6 +13,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/drblack001/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/drblack001/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/drblack001/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/drblack001/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Linked List
 |  |
 | ------- |

@@ -17,6 +17,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/drblack001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/drblack001/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/drblack001/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1592-rearrange-spaces-between-words](https://github.com/drblack001/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/drblack001/Leetcode/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->

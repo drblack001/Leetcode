@@ -67,4 +67,16 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/drblack001/Leetcode/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/drblack001/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/drblack001/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

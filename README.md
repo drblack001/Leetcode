@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/drblack001/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/drblack001/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |
@@ -60,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |

@@ -59,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/drblack001/Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/drblack001/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/drblack001/Leetcode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/drblack001/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

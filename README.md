@@ -62,6 +62,7 @@
 | [0069-sqrtx](https://github.com/drblack001/Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/drblack001/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/drblack001/Leetcode/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0326-power-of-three](https://github.com/drblack001/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/drblack001/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/drblack001/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/drblack001/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/drblack001/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/drblack001/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation

@@ -27,11 +27,11 @@ public:
         if (negative)
             ans = -ans;
 
-        if (ans > 2147483647)
-            return 2147483647;
+        if (ans > INT_MAX)
+            return INT_MAX;
 
-        if (ans < -2147483648LL)
-            return -2147483648LL;
+        if (ans < INT_MIN)
+            return INT_MIN;
 
         return (int)ans;
     }

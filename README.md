@@ -84,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/drblack001/Leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/drblack001/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/drblack001/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/drblack001/Leetcode/tree/master/0258-add-digits) |
@@ -113,6 +114,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/drblack001/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/drblack001/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/drblack001/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion

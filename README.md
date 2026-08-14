@@ -96,6 +96,7 @@
 | [0492-construct-the-rectangle](https://github.com/drblack001/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/drblack001/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/drblack001/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/drblack001/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
 | ------- |

@@ -53,6 +53,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/drblack001/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/drblack001/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/drblack001/Leetcode/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/drblack001/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/drblack001/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/drblack001/Leetcode/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/drblack001/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/drblack001/Leetcode/tree/master/0922-sort-array-by-parity-ii) |

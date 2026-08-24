@@ -51,6 +51,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/drblack001/Leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/drblack001/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/drblack001/Leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/drblack001/Leetcode/tree/master/0409-longest-palindrome) |
@@ -115,6 +116,7 @@
 | [0069-sqrtx](https://github.com/drblack001/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/drblack001/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/drblack001/Leetcode/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/drblack001/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/drblack001/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/drblack001/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/drblack001/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -157,6 +159,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/drblack001/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/drblack001/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -166,4 +169,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/drblack001/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/drblack001/Leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->

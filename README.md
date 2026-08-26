@@ -13,6 +13,7 @@
 | [0541-reverse-string-ii](https://github.com/drblack001/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/drblack001/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/drblack001/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/drblack001/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -36,6 +37,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/drblack001/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/drblack001/Leetcode/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/drblack001/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/drblack001/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/drblack001/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/drblack001/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/drblack001/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/drblack001/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Newton's Method
 |  |

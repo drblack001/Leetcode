@@ -45,6 +45,7 @@
 | [1592-rearrange-spaces-between-words](https://github.com/drblack001/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/drblack001/Leetcode/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0258-add-digits](https://github.com/drblack001/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/drblack001/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/drblack001/Leetcode/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/drblack001/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/drblack001/Leetcode/tree/master/3174-clear-digits) |
 ## Newton's Method
 |  |
 | ------- |

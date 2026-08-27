@@ -39,6 +39,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/drblack001/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/drblack001/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/drblack001/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/drblack001/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1592-rearrange-spaces-between-words](https://github.com/drblack001/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/drblack001/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/drblack001/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Newton's Method
 |  |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/drblack001/Leetcode/tree/master/0264-ugly-number-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/drblack001/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

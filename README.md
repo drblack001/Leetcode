@@ -79,6 +79,7 @@
 | [0575-distribute-candies](https://github.com/drblack001/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/drblack001/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/drblack001/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0739-daily-temperatures](https://github.com/drblack001/Leetcode/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/drblack001/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/drblack001/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/drblack001/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/drblack001/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/drblack001/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -198,5 +200,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/drblack001/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/drblack001/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

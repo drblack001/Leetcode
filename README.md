@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/drblack001/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/drblack001/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/drblack001/Leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/drblack001/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
@@ -99,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/drblack001/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |

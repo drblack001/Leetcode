@@ -45,6 +45,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/drblack001/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/drblack001/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/drblack001/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1446-consecutive-characters](https://github.com/drblack001/Leetcode/tree/master/1446-consecutive-characters) |
 | [1544-make-the-string-great](https://github.com/drblack001/Leetcode/tree/master/1544-make-the-string-great) |
 | [1592-rearrange-spaces-between-words](https://github.com/drblack001/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |

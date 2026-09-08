@@ -154,6 +154,7 @@
 | [0728-self-dividing-numbers](https://github.com/drblack001/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/drblack001/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/drblack001/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3870-count-commas-in-range](https://github.com/drblack001/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |

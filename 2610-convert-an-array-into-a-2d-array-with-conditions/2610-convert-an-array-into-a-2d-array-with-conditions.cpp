@@ -16,9 +16,8 @@ public:
                 if (it->second == 0) {
                     it = mp.erase(it);
                 } 
-                else {
-                    ++it;
-                }
+                else it++;
+                
             }
             ans.push_back(temp);
         }

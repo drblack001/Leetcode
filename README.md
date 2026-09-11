@@ -108,6 +108,7 @@
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/drblack001/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/drblack001/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [0231-power-of-two](https://github.com/drblack001/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/drblack001/Leetcode/tree/master/0342-power-of-four) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/drblack001/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/drblack001/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -267,8 +270,10 @@
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/drblack001/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/drblack001/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/drblack001/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->

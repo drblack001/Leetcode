@@ -6,9 +6,10 @@ public:
             mp[nums[i]]++;
         }
 
-        nums.clear();
+        int i=0;
         for( auto x :mp){
-            nums.push_back(x.first);
+            nums[i]=(x.first);
+            i++;
         }
         return mp.size();
     }

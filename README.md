@@ -32,6 +32,7 @@
 | [0008-string-to-integer-atoi](https://github.com/drblack001/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/drblack001/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/drblack001/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/drblack001/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/drblack001/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/drblack001/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -63,6 +64,7 @@
 | [0001-two-sum](https://github.com/drblack001/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/drblack001/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/drblack001/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/drblack001/Leetcode/tree/master/0242-valid-anagram) |
@@ -287,6 +289,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/drblack001/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/drblack001/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/drblack001/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/drblack001/Leetcode/tree/master/0930-binary-subarrays-with-sum) |

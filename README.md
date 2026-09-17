@@ -123,6 +123,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drblack001/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/drblack001/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/drblack001/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -150,6 +151,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/drblack001/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/drblack001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Linked List
 |  |
 | ------- |
@@ -309,4 +311,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/drblack001/Leetcode/tree/master/0836-rectangle-overlap) |
+## Matrix
+|  |
+| ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->

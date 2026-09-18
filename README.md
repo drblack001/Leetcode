@@ -128,6 +128,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/drblack001/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/drblack001/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3446-sort-matrix-by-diagonals](https://github.com/drblack001/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/drblack001/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3446-sort-matrix-by-diagonals](https://github.com/drblack001/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3446-sort-matrix-by-diagonals](https://github.com/drblack001/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Game Theory
 |  |
 | ------- |

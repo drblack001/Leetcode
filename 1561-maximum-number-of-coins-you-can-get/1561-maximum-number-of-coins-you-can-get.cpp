@@ -5,7 +5,7 @@ public:
         int k = 2*( piles.size()/3);
         sort(piles.rbegin(), piles.rend());
         int ans=0;
-        for(int i=1;i<=k;i+=2){
+        for(int i=1;i<k;i+=2){
             ans+=piles[i];
         }
         return ans;

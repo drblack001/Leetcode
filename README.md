@@ -129,6 +129,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/drblack001/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/drblack001/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3467-transform-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3446-sort-matrix-by-diagonals](https://github.com/drblack001/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3467-transform-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/drblack001/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [3467-transform-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Quickselect
 |  |
 | ------- |

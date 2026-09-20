@@ -66,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/drblack001/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/drblack001/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/drblack001/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -97,6 +98,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drblack001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/drblack001/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +149,7 @@
 | [0018-4sum](https://github.com/drblack001/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/drblack001/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -285,6 +288,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -293,6 +297,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/drblack001/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3467-transform-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -332,4 +337,8 @@
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/drblack001/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

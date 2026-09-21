@@ -57,6 +57,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/drblack001/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/drblack001/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3174-clear-digits](https://github.com/drblack001/Leetcode/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/drblack001/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
@@ -166,6 +167,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/drblack001/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2785-sort-vowels-in-a-string](https://github.com/drblack001/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3446-sort-matrix-by-diagonals](https://github.com/drblack001/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/drblack001/Leetcode/tree/master/3731-find-missing-elements) |

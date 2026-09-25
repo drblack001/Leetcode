@@ -103,6 +103,7 @@
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/drblack001/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/drblack001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/drblack001/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
@@ -266,6 +267,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/drblack001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/drblack001/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/drblack001/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization

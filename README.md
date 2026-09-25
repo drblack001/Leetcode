@@ -100,6 +100,7 @@
 | [0015-3sum](https://github.com/drblack001/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/drblack001/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drblack001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/drblack001/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/drblack001/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/drblack001/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/drblack001/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/drblack001/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/drblack001/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/drblack001/Leetcode/tree/master/0189-rotate-array) |
@@ -352,6 +354,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/drblack001/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/drblack001/Leetcode/tree/master/0054-spiral-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/drblack001/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |

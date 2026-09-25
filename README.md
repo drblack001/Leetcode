@@ -66,6 +66,7 @@
 | [0001-two-sum](https://github.com/drblack001/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/drblack001/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/drblack001/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/drblack001/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
@@ -103,6 +104,7 @@
 | [0048-rotate-image](https://github.com/drblack001/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/drblack001/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/drblack001/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/drblack001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
@@ -356,6 +358,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/drblack001/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/drblack001/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/drblack001/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1329-sort-the-matrix-diagonally](https://github.com/drblack001/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3446-sort-matrix-by-diagonals](https://github.com/drblack001/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |

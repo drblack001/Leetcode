@@ -104,6 +104,7 @@
 | [0015-3sum](https://github.com/drblack001/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/drblack001/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drblack001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/drblack001/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/drblack001/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/drblack001/Leetcode/tree/master/0054-spiral-matrix) |
@@ -155,6 +156,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/drblack001/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/drblack001/Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/drblack001/Leetcode/tree/master/0367-valid-perfect-square) |

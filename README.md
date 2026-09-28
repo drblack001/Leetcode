@@ -104,6 +104,7 @@
 | [0015-3sum](https://github.com/drblack001/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/drblack001/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drblack001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/drblack001/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/drblack001/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/drblack001/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
@@ -156,6 +157,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/drblack001/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/drblack001/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/drblack001/Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |

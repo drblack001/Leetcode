@@ -122,6 +122,7 @@
 | [0575-distribute-candies](https://github.com/drblack001/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/drblack001/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/drblack001/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/drblack001/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/drblack001/Leetcode/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/drblack001/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -158,6 +159,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/drblack001/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/drblack001/Leetcode/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/drblack001/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/drblack001/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drblack001/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting

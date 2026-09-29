@@ -92,6 +92,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drblack001/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drblack001/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/drblack001/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/drblack001/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/drblack001/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -147,6 +148,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drblack001/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/drblack001/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/drblack001/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -228,6 +230,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/drblack001/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/drblack001/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/drblack001/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2769-find-the-maximum-achievable-number](https://github.com/drblack001/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3870-count-commas-in-range](https://github.com/drblack001/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/drblack001/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -339,6 +342,7 @@
 | [0229-majority-element-ii](https://github.com/drblack001/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/drblack001/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Quickselect
 |  |

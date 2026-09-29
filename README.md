@@ -57,6 +57,7 @@
 | [1592-rearrange-spaces-between-words](https://github.com/drblack001/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/drblack001/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/drblack001/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/drblack001/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -91,6 +92,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/drblack001/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drblack001/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drblack001/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/drblack001/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -146,6 +148,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/drblack001/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drblack001/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drblack001/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -300,6 +303,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/drblack001/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/drblack001/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
 |  |

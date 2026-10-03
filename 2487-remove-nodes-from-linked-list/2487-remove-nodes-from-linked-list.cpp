@@ -25,29 +25,27 @@ public:
     }
     ListNode* removeNodes(ListNode* head) {
 
-        stack<int> st;
-        head=reverseList(head);
-        ListNode*temp = head;
+        head = reverseList(head);
 
-        while(temp != nullptr){
-            if(st.empty()) st.push(temp->val);
-            else if(temp->val >= st.top()){
-                st.push(temp->val);
+        ListNode* temp = head;
+        ListNode* t = head;
+
+        int maxi = head->val;
+        temp = temp->next;
+
+        while (temp != nullptr) {
+
+            if (temp->val >= maxi) {
+                maxi = temp->val;
+                t->next = temp;
+                t = temp;
             }
-            temp=temp->next;
+
+            temp = temp->next;
         }
 
-        temp=head;
+        t->next = nullptr;
 
-        while(!st.empty()){
-            temp->val = st.top();
-            st.pop();
-            if(st.empty()){
-                temp->next=nullptr;
-            }
-            temp=temp->next;
-        }
-        return head;
-
+        return reverseList(head);
     }
 };

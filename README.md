@@ -44,6 +44,7 @@
 | [0500-keyboard-row](https://github.com/drblack001/Leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/drblack001/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/drblack001/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/drblack001/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/drblack001/Leetcode/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/drblack001/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/drblack001/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/drblack001/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/drblack001/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Math
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/drblack001/Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/drblack001/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/drblack001/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/drblack001/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/drblack001/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -313,6 +316,7 @@
 | [0118-pascals-triangle](https://github.com/drblack001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/drblack001/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/drblack001/Leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/drblack001/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -332,6 +336,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/drblack001/Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/drblack001/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/drblack001/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/drblack001/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/drblack001/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

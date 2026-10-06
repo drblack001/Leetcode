@@ -12,9 +12,7 @@ public:
         if (!headA || !headB) return nullptr;
 
         ListNode *a = headA;
-        ListNode *b = headB;
-
-        // Traverse until pointers meet (either at the intersection node or at nullptr)
+        ListNode *b=headB;
         while (a != b) {
             a = (a == nullptr) ? headB : a->next;
             b = (b == nullptr) ? headA : b->next;

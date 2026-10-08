@@ -21,19 +21,7 @@ public:
         head = temp;
         return head;
     }
-    ListNode* rev(ListNode* head) {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
 
-        while (curr) {
-            ListNode* temp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = temp;
-        }
-
-        return prev;
-    }
     ListNode* rotateRight(ListNode* head, int k) {
         if (!head || !head->next)
             return head;

@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/drblack001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/drblack001/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/drblack001/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/drblack001/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/drblack001/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -194,6 +195,7 @@
 | [0018-4sum](https://github.com/drblack001/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/drblack001/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/drblack001/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/drblack001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/drblack001/Leetcode/tree/master/0229-majority-element-ii) |
@@ -223,6 +225,7 @@
 | [0061-rotate-list](https://github.com/drblack001/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/drblack001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/drblack001/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/drblack001/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/drblack001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/drblack001/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/drblack001/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -389,6 +392,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/drblack001/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/drblack001/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -463,6 +467,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/drblack001/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/drblack001/Leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |

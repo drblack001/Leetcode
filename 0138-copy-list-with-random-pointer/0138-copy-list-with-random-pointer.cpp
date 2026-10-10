@@ -17,65 +17,42 @@ public:
 
 class Solution {
 public:
-    Node* duplicate(Node* head) {
-        Node* dummy = new Node(0);
-        Node* temp = dummy;
-
-        while (head) {
-            Node* neu = new Node(head->val);
-            neu->random = nullptr;
-
-            temp->next = neu;
-            temp = temp->next;
-            head = head->next;
-        }
-
-        return dummy->next;
-    }
-
-    vector<pair<int, Node*>> pairs(Node* head) {
-        vector<pair<int, Node*>> ans;
-        int index = 0;
-
-        while (head) {
-            ans.push_back({index, head->random});
-            head = head->next;
-            index++;
-        }
-
-        return ans;
-    }
-
     Node* copyRandomList(Node* head) {
         if (!head) return nullptr;
 
-        Node* copy = duplicate(head);
-        vector<pair<int, Node*>> ans = pairs(head);
+        Node* curr = head;
 
-        Node* temp1 = copy;
-        int index = 0;
-
-        while (temp1) {
-            Node* randomNode = ans[index].second;
-
-            if (randomNode == nullptr) {
-                temp1->random = nullptr;
-            } else {
-                Node* original = head;
-                Node* copied = copy;
-
-                while (original != randomNode) {
-                    original = original->next;
-                    copied = copied->next;
-                }
-
-                temp1->random = copied;
-            }
-
-            temp1 = temp1->next;
-            index++;
+        while (curr) {
+            Node* neu = new Node(curr->val);
+            neu->next = curr->next;
+            curr->next = neu;
+            curr = neu->next;
         }
 
-        return copy;
+        curr = head;
+
+        while (curr) {
+            if (curr->random) {
+                curr->next->random = curr->random->next;
+            }
+
+            curr = curr->next->next;
+        }
+
+        Node* dummy = new Node(0);
+        Node* copyTail = dummy;
+        curr = head;
+
+        while (curr) {
+            Node* copied = curr->next;
+
+            curr->next = copied->next;
+            copyTail->next = copied;
+            copyTail = copied;
+
+            curr = curr->next;
+        }
+
+        return dummy->next;
     }
 };

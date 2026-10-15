@@ -324,6 +324,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/drblack001/Leetcode/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/drblack001/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/drblack001/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/drblack001/Leetcode/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/drblack001/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -397,6 +398,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/drblack001/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/drblack001/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/drblack001/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |

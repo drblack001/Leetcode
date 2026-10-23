@@ -7,17 +7,17 @@ public:
             totalSum += x;
         }
 
-        vector<int> ans;
         int leftSum = 0;
 
-        for (int x : nums) {
+        for (int i = 0; i < nums.size(); i++) {
+            int x = nums[i];  
             int rightSum = totalSum - leftSum - x;
 
-            ans.push_back(abs(leftSum - rightSum));
+            nums[i] = abs(leftSum - rightSum);
 
-            leftSum += x;
+            leftSum += x;     
         }
 
-        return ans;
+        return nums;
     }
 };

@@ -72,6 +72,7 @@
 | [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/drblack001/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2409-count-days-spent-together](https://github.com/drblack001/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/drblack001/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3174-clear-digits](https://github.com/drblack001/Leetcode/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/drblack001/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -276,6 +277,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/drblack001/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/drblack001/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/drblack001/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2409-count-days-spent-together](https://github.com/drblack001/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2769-find-the-maximum-achievable-number](https://github.com/drblack001/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/drblack001/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |

@@ -144,6 +144,7 @@
 | [0229-majority-element-ii](https://github.com/drblack001/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/drblack001/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/drblack001/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/drblack001/Leetcode/tree/master/0500-keyboard-row) |
@@ -211,6 +212,7 @@
 | [0242-valid-anagram](https://github.com/drblack001/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drblack001/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/drblack001/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/drblack001/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/drblack001/Leetcode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/drblack001/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/drblack001/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/drblack001/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/drblack001/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -360,6 +363,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/drblack001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/drblack001/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0435-non-overlapping-intervals](https://github.com/drblack001/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/drblack001/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/drblack001/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/drblack001/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |

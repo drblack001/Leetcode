@@ -175,6 +175,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drblack001/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/drblack001/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drblack001/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2363-merge-similar-items](https://github.com/drblack001/Leetcode/tree/master/2363-merge-similar-items) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -460,6 +461,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/drblack001/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/drblack001/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drblack001/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1991-find-the-middle-index-in-array](https://github.com/drblack001/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/drblack001/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Geometry

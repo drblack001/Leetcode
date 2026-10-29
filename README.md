@@ -152,6 +152,7 @@
 | [0682-baseball-game](https://github.com/drblack001/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/drblack001/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/drblack001/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/drblack001/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/drblack001/Leetcode/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/drblack001/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/drblack001/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -454,6 +455,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/drblack001/Leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/drblack001/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/drblack001/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/drblack001/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |

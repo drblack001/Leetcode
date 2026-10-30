@@ -76,6 +76,7 @@
 | [2409-count-days-spent-together](https://github.com/drblack001/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/drblack001/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3174-clear-digits](https://github.com/drblack001/Leetcode/tree/master/3174-clear-digits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/drblack001/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/drblack001/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
 |  |
@@ -347,6 +348,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/drblack001/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/drblack001/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/drblack001/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/drblack001/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/drblack001/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/drblack001/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

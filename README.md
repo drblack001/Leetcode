@@ -59,6 +59,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/drblack001/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/drblack001/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/drblack001/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1079-letter-tile-possibilities](https://github.com/drblack001/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1108-defanging-an-ip-address](https://github.com/drblack001/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/drblack001/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/drblack001/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -108,6 +109,7 @@
 | [0904-fruit-into-baskets](https://github.com/drblack001/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/drblack001/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/drblack001/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/drblack001/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/drblack001/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/drblack001/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drblack001/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -379,6 +381,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/drblack001/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1079-letter-tile-possibilities](https://github.com/drblack001/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/drblack001/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/drblack001/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -435,6 +438,7 @@
 | [0347-top-k-frequent-elements](https://github.com/drblack001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/drblack001/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/drblack001/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/drblack001/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/drblack001/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/drblack001/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |

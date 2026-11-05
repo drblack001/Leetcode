@@ -191,6 +191,7 @@
 | [3467-transform-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/drblack001/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/drblack001/Leetcode/tree/master/3731-find-missing-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/drblack001/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -484,6 +485,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/drblack001/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/drblack001/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3446-sort-matrix-by-diagonals](https://github.com/drblack001/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/drblack001/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Game Theory
 |  |
 | ------- |
@@ -511,4 +513,8 @@
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/drblack001/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/drblack001/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

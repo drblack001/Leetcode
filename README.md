@@ -142,6 +142,7 @@
 | [0057-insert-interval](https://github.com/drblack001/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/drblack001/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/drblack001/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/drblack001/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/drblack001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/drblack001/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/drblack001/Leetcode/tree/master/0169-majority-element) |
@@ -347,6 +348,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/drblack001/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/drblack001/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/drblack001/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/drblack001/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/drblack001/Leetcode/tree/master/0231-power-of-two) |
@@ -389,6 +391,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/drblack001/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/drblack001/Leetcode/tree/master/0078-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/drblack001/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/drblack001/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |

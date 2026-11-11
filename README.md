@@ -271,6 +271,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/drblack001/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/drblack001/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/drblack001/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/drblack001/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Math
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/drblack001/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2769-find-the-maximum-achievable-number](https://github.com/drblack001/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/drblack001/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/drblack001/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/drblack001/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/drblack001/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Simulation

@@ -193,6 +193,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/drblack001/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/drblack001/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/drblack001/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3446-sort-matrix-by-diagonals](https://github.com/drblack001/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/drblack001/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/drblack001/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -475,6 +476,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/drblack001/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/drblack001/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/drblack001/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -486,6 +488,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/drblack001/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/drblack001/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/drblack001/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/drblack001/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Geometry
 |  |
 | ------- |

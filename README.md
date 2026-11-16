@@ -75,6 +75,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/drblack001/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1980-find-unique-binary-string](https://github.com/drblack001/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/drblack001/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/drblack001/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/drblack001/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2409-count-days-spent-together](https://github.com/drblack001/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/drblack001/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -317,6 +318,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/drblack001/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drblack001/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/drblack001/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/drblack001/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/drblack001/Leetcode/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |

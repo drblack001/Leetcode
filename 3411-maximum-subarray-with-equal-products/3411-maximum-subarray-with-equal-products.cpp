@@ -1,33 +1,26 @@
 class Solution {
 public:
     int maxLength(vector<int>& nums) {
-        int maxm = 0;
         int n = nums.size();
 
-        for (int i = 0; i < n; i++) {
+        if(n <= 2) return n;
 
-            for (int j = i; j < n; j++) {
+        int left = 0;
+        int maxm = 2;
 
-                bool valid = true;
+        for(int right = 0; right < n; right++) {
 
-                if (j - i + 1 >= 3) {
+            int newLeft = left;
 
-                    for (int k = i; k < j; k++) {
-                        if (__gcd(nums[k], nums[j]) != 1) {
-                            valid = false;
-                            break;
-                        }
-                    }
-
-                    if (__gcd(nums[i], nums[i + 1]) != 1) {
-                        valid = false;
-                    }
+            for(int k = left; k < right; k++) {
+                if(__gcd(nums[k], nums[right]) != 1) {
+                    newLeft = max(newLeft, k + 1);
                 }
-
-                if (!valid) break;
-
-                maxm = max(maxm, j - i + 1);
             }
+
+            left = newLeft;
+
+            maxm = max(maxm, right - left + 1);
         }
 
         return maxm;
